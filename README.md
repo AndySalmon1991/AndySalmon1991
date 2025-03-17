@@ -9,21 +9,13 @@ Data Analyst | PowerBI Enthusiast | Lifelong Learner
 
 ## About Me 🎓 
 
-
--- please update this part with your pitch --
-I hold a degree in Biology and during my time in university I developed a keen intrest in data. During my time working in the pharmaceutical industry I was able to begin looking into the data analysis world and discovered my true passion. I decided to develop my knowledge in analytics and in time managed to start work in business development and through JUSTIT was able to take larger strides into understanding the vast options available for all things data.
+I hold a degree in Biology and during my time in university I developed a keen intrest in data. During my time working in the pharmaceutical industry I was able to begin looking into the data analysis world and discovered my true passion. This strength in data analysis was seen mostly in my previous job where I was a proposition executive for AAH Pharmaceuticals, in which I looked for development opportunities in the business by looking into the data and previous trends. I decided to develop my knowledge in analytics and in time managed to start work in business development and through JUSTIT was able to take larger strides into understanding the vast options available for all things data.
 
 📊 Proficient in Python, SQL, data visualization tools (Matplotlib, Seaborn) and PowerBI . 
 🧩 Skilled in data cleaning, exploratory data analysis (EDA), and statistical modelling. 
 🌐 Curious about web scraping, API integration and machine learning. 
 
 ## Projects
-
-1. **Customer Segmentation** using K-Means Clustering Employed K-Means clustering to identify distinct customer segments based on their purchasing behavior. Cleaned and preprocessed e-commerce transaction data. Visualized segment characteristics using scatter plots and bar charts.
-   
-2. **Predictive Modeling** for Loan Approval Developed a logistic regression model to predict loan approval probabilities. Engineered features and handled missing data. Achieved an accuracy of 82% on the test set.
-3. **Exploratory Data Analysis:** Airbnb Listings in London Explored Airbnb listings data for various London neighborhoods. Created interactive visualizations using Plotly. Uncovered pricing trends and popular neighborhoods. 
-
 
 ### PowerBI --locate kaggle project--
 - **Project Name**: [Project Title](link-to-project)
