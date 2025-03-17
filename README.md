@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Andy
+   Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Andy
 ===========================================================================================================================
 
 Data Analyst | PowerBI Enthusiast | Lifelong Learner
@@ -84,11 +84,11 @@ I hold a degree in Biology and during my time in university I developed a keen i
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/AndySalmon1991"><img src="https://github-readme-stats.vercel.app/api?username=AndySalmon1991&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="AndySalmon1991's GitHub stats" /></a>
+<a href="http://www.github.com/AndySalmon1991"><img src="https://github-readme-stats.vercel.app/api?username=AndySalmon1991&theme=dracula&show_icons=true&hide=&count_private=true" /></a>
 
-<a href="http://www.github.com/AndySalmon1991"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AndySalmon1991&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/AndySalmon1991"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AndySalmon1991&theme=dracula&hide_border=true" /></a>
 
-<a href="https://github.com/Ali06112023" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=AndySalmon1991&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark%22" alt="Top Languages" /></a>
+<a href="https://github.com/AndySalmon1991" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=AndySalmon1991&theme=dracula&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></a>
 https://github-readme-stats.vercel.app/api/top-langs?username=JoeDavisGithub&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark%22
 
 <a href="http://www.github.com/Ali06112023"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Ali06112023&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
