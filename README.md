@@ -89,7 +89,6 @@ I hold a degree in Biology and during my time in university I developed a keen i
 <a href="http://www.github.com/AndySalmon1991"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AndySalmon1991&theme=dracula&hide_border=true" /></a>
 
 <a href="https://github.com/AndySalmon1991" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=AndySalmon1991&theme=dracula&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></a>
-https://github-readme-stats.vercel.app/api/top-langs?username=JoeDavisGithub&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark%22
 
 <a href="http://www.github.com/Ali06112023"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Ali06112023&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
