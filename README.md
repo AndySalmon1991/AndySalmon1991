@@ -62,7 +62,7 @@ I hold a degree in Biology and during my time in university I developed a keen i
 
 * 🌍  I'm based in Willenhall, West Midlands
 * ✉️  You can contact me at [email address](mailto:salmon_2004_@h0tmail.com)
-* 🧠  I'm learning Microsoft Azure, Pandas
+* 🧠  I'm learning Microsoft Azure, Pandas. I am also working on my PowerBI qualification (PL300) and Microsoft Azure qualification(DP900).
 * 🤝  I'm open to collaborating on Health Economics, Healthcare projects, 
 
 ### Skills
