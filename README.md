@@ -15,7 +15,7 @@ I hold a degree in Biology and during my time in university I developed a keen i
 
 📊 Proficient in Python, SQL, data visualization tools (Matplotlib, Seaborn) and PowerBI . 
 🧩 Skilled in data cleaning, exploratory data analysis (EDA), and statistical modelling. 
-🌐 Curious about web scraping and API integration. 
+🌐 Curious about web scraping, API integration and machine learning. 
 
 ## Projects
 
