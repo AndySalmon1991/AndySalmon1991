@@ -11,8 +11,10 @@ Data Analyst | PowerBI Enthusiast | Lifelong Learner
 
 I hold a degree in Biology and during my time in university I developed a keen intrest in data. During my time working in the pharmaceutical industry I was able to begin looking into the data analysis world and discovered my true passion. This strength in data analysis was seen mostly in my previous job where I was a proposition executive for AAH Pharmaceuticals, in which I looked for development opportunities in the business by looking into the data and previous trends. I decided to develop my knowledge in analytics and in time managed to start work in business development and through JUSTIT was able to take larger strides into understanding the vast options available for all things data.
 
-📊 Proficient in Python, SQL, data visualization tools (Matplotlib, Seaborn) and PowerBI . 
+📊 Proficient in Python, SQL, data visualization tools (Matplotlib, Seaborn) and PowerBI .
+
 🧩 Skilled in data cleaning, exploratory data analysis (EDA), and statistical modelling. 
+
 🌐 Curious about web scraping, API integration and machine learning. 
 
 ## Projects
@@ -81,7 +83,4 @@ I hold a degree in Biology and during my time in university I developed a keen i
 <a href="http://www.github.com/AndySalmon1991"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AndySalmon1991&theme=dracula&hide_border=true" /></a>
 
 <a href="https://github.com/AndySalmon1991" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=AndySalmon1991&theme=dracula&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></a>
-
-<a href="http://www.github.com/Ali06112023"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Ali06112023&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 
