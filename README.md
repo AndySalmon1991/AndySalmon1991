@@ -19,8 +19,8 @@ I hold a degree in Biology and during my time in university I developed a keen i
 
 ## Projects
 
-### PowerBI --locate kaggle project--
-- **Project Name**: [Project Title](link-to-project)
+### PowerBI
+- **Project Name**: Student Depression Analysis (link-to-project)
   - **Description**: Brief description of what the project does and its key features.
   - **Technologies Used**: List the features and data sources used in the project.
 
