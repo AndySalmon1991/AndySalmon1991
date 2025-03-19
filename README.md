@@ -25,7 +25,7 @@ I hold a degree in Biology and during my time in university I developed a keen i
   - **Technologies Used**: PowerBI with DAX. Data from Kaggle.com
 
 ### Tableau
-- **Project Name**: World Health analysis(link-to-project)
+- **Project Name**: World Health analysis https://github.com/AndySalmon1991/Tableau--health-information
   - **Description**: a look into different health issues using Tableau.
   - **Technologies Used**: Tableau. data from Kaggle.
 
