@@ -20,36 +20,25 @@ I hold a degree in Biology and during my time in university I developed a keen i
 ## Projects
 
 ### PowerBI
-- **Project Name**: Student Depression Analysis (link-to-project)
-  - **Description**: Brief description of what the project does and its key features.
-  - **Technologies Used**: List the features and data sources used in the project.
+- **Project Name**: Tourism (link-to-project)
+  - **Description**: an overarching analysis of tourism data.
+  - **Technologies Used**: PowerBI with DAX. Data from Kaggle.com
 
-### Tableau --inverse kaggle--
-- **Project Name**: [Project Title](link-to-project)
-  - **Description**: Brief description of what the project does and its key features.
-  - **Technologies Used**: List the features and data sources used in the project.
+### Tableau
+- **Project Name**: World Health analysis(link-to-project)
+  - **Description**: a look into different health issues using Tableau.
+  - **Technologies Used**: Tableau. data from Kaggle.
 
 
-### MySQL --W3--
-- **Project Name**: [Project Title](link-to-project)
-  - **Description**: Brief description of what the project does and its key features.
-  - **Technologies Used**: List the features and databases used in the project.
+### MySQL
+- **Project Name**: Cornershop Database (link-to-project)
+  - **Description**: Creating a new database for a cornershop looking at basic implementation and chances for upgrading in the future.
+  - **Technologies Used**: MySQL.
 
 ### Python and Pandas --w6--
 - **Project Name**: [Project Title](link-to-project)
   - **Description**: Brief description of what the project does and its key features.
   - **Technologies Used**: List the libraries/packages used in the project.
-
-### DP900 --labs--
-- **Project Name**: [Project Title](link-to-project)
-  - **Description**: Brief description of what the project does and its key features.
-  - **Technologies Used**: List the tools and concepts used in the project.
-
-### Excel Modelling --w1--
-- **Project Name**: [Project Title](link-to-project)
-  - **Description**: Brief description of what the project does and its key features.
-  - **Technologies Used**: List the functions and techniques used in the project.
-
 
 
 
