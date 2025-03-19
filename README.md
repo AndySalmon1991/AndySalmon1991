@@ -20,7 +20,7 @@ I hold a degree in Biology and during my time in university I developed a keen i
 ## Projects
 
 ### PowerBI
-- **Project Name**: Tourism (link-to-project)
+- **Project Name**: Tourism https://github.com/AndySalmon1991/PowerBI--Tourism
   - **Description**: an overarching analysis of tourism data.
   - **Technologies Used**: PowerBI with DAX. Data from Kaggle.com
 
