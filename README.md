@@ -31,7 +31,7 @@ I hold a degree in Biology and during my time in university I developed a keen i
 
 
 ### MySQL
-- **Project Name**: Cornershop Database (link-to-project)
+- **Project Name**: Cornershop Database https://github.com/AndySalmon1991/SQL---New-Shop-project
   - **Description**: Creating a new database for a cornershop looking at basic implementation and chances for upgrading in the future.
   - **Technologies Used**: MySQL.
 
