@@ -35,12 +35,6 @@ I hold a degree in Biology and during my time in university I developed a keen i
   - **Description**: Creating a new database for a cornershop looking at basic implementation and chances for upgrading in the future.
   - **Technologies Used**: MySQL.
 
-### Python and Pandas --w6--
-- **Project Name**: [Project Title](link-to-project)
-  - **Description**: Brief description of what the project does and its key features.
-  - **Technologies Used**: List the libraries/packages used in the project.
-
-
 
 
 * 🌍  I'm based in Willenhall, West Midlands
