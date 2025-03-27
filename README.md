@@ -20,18 +20,18 @@ I hold a degree in Biology and during my time in university I developed a keen i
 ## Projects
 
 ### PowerBI
-- **Project Name**: Tourism https://github.com/AndySalmon1991/PowerBI--Tourism
+- **Project Name**: [Tourism](https://github.com/AndySalmon1991/PowerBI--Tourism)
   - **Description**: an overarching analysis of tourism data.
   - **Technologies Used**: PowerBI with DAX. Data from Kaggle.com
 
 ### Tableau
-- **Project Name**: World Health analysis https://github.com/AndySalmon1991/Tableau--health-information
+- **Project Name**: [World Health analysis](https://github.com/AndySalmon1991/Tableau--health-information)
   - **Description**: a look into different health issues using Tableau.
   - **Technologies Used**: Tableau. data from Kaggle.
 
 
 ### MySQL
-- **Project Name**: Cornershop Database https://github.com/AndySalmon1991/SQL---New-Shop-project
+- **Project Name**: [Cornershop Database](https://github.com/AndySalmon1991/SQL---New-Shop-project)
   - **Description**: Creating a new database for a cornershop looking at basic implementation and chances for upgrading in the future.
   - **Technologies Used**: MySQL.
 
