@@ -57,7 +57,15 @@ I hold a degree in Biology and during my time in university I developed a keen i
 
 <p align="left"> <a href="https://www.github.com/AndySalmon1991" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
 
-<p align="left"> <a href="https://sites.google.com/view/andy-salmon/home" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/google-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/google.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/google.svg" width="32" height="32" /> </picture> </a></p>
+<p align="left">
+  <a href="https://your-google-site-url" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github.com/AndySalmon1991/private-2/blob/main/Google_Sites_2020_Logo.svg.png" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github.com/AndySalmon1991/private-2/blob/main/Google_Sites_2020_Logo.svg.png" />
+      <img src="https://github.com/AndySalmon1991/private-2/blob/main/Google_Sites_2020_Logo.svg.png" width="32" height="32" />
+    </picture>
+  </a>
+</p>
 
 <p align="left"> <a href="http://www.linkedin.com/in/andrew-salmon-9a0211284" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
